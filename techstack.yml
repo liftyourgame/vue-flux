@@ -1,7 +1,8 @@
 repo_name: liftyourgame/vue-flux
 report_id: fa7ebc153b011c9bd881eb050c0197a0
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T16:27:16+00:00'
+timestamp: '2024-01-05T08:23:58+00:00'
 requested_by: ragnarlotus
 provider: github
 branch: dev
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/liftyourgame/vue-flux
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/liftyourgame/vue-flux
   detection_source: Repo Metadata
 - name: Sass
   description: Syntactically Awesome Style Sheets
@@ -35,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/liftyourgame/vue-flux/blob/dev/package.json
   detection_source: package.json
   last_updated_by: ragnar
   last_updated_on: 2018-03-31 09:27:24.000000000 Z
@@ -47,6 +51,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Front-End Frameworks
   image_url: https://img.stackshare.io/service/8158/default_660b7c41c3ba489cb581eec89c04655404258c19.png
+  detection_source_url: https://github.com/liftyourgame/vue-flux/blob/dev/package.json
   detection_source: package.json
   last_updated_by: Oscar
   last_updated_on: 2019-05-31 19:38:20.000000000 Z
@@ -86,6 +91,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/liftyourgame/vue-flux
   detection_source: Repo Metadata
 - name: Jest
   description: Painless JavaScript Unit Testing
@@ -109,6 +115,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/liftyourgame/vue-flux/blob/dev/yarn.lock
   detection_source: yarn.lock
   last_updated_by: Oscar
   last_updated_on: 2019-06-12 18:14:50.000000000 Z
@@ -120,6 +127,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/liftyourgame/vue-flux/blob/dev/package.json
   detection_source: package.json
   last_updated_by: ragnar
   last_updated_on: 2018-03-31 09:27:24.000000000 Z
@@ -129,6 +137,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/liftyourgame/vue-flux/blob/dev/docs/index.html
   detection_source: docs/index.html
   last_updated_by: Oscar
   last_updated_on: 2019-05-29 12:31:57.000000000 Z
